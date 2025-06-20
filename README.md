@@ -3,7 +3,7 @@
 
 This project is a **Power BI dashboard** designed to analyze and visualize employee attrition data. It helps HR departments and stakeholders identify trends, patterns, and key drivers behind workforce attrition to make data-informed decisions.
 
-![Dashboard Screenshot](d12c8ad9-b48b-4ac1-a377-e49cd58f1474.png)
+![Dashboard Screenshot](https://github.com/vaisharma16/HR-Analytics-Dashboard/blob/main/Dashboard.png)
 
 ---
 
@@ -21,6 +21,20 @@ This project is a **Power BI dashboard** designed to analyze and visualize emplo
 - Attrition count across **Departments**, **Education Fields**, **Marital Status**, and **Job Roles**
 - Attrition trends by **Years at Company**
 - Interactive **slicers** for all key attributes (Department, Age Group, Education, Salary, etc.)
+---
+
+🔍 Project Description: HR Analytics Dashboard – Employee Attrition Analysis (Power BI)
+- Built an interactive Power BI dashboard to analyze and visualize employee attrition data for strategic HR decision-making.
+
+✅ Key Highlights:
+
+- Visualized attrition across dimensions like age, gender, salary, education, department, and job roles
+
+- Used DAX measures to calculate dynamic KPIs like Attrition Count and Attrition Rate
+
+- Integrated slicers for interactive exploration by business travel, salary slab, marital status, and more
+
+- Identified key attrition patterns to support employee retention strategies.
 
 ---
 
